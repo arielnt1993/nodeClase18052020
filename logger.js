@@ -1,7 +1,7 @@
 let url = 'https://myurl.com';
 
 log = (mensaje) => {
-    console.log(`holla ${mensaje}`);
+    console.log(`hola ${mensaje}`);
 }
 
 module.exports.url = url;
